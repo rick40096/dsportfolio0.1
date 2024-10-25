@@ -4062,12 +4062,12 @@ td:last-child {
 /* --------------------------------------------------------------------
  * ## clients list
  * -------------------------------------------------------------------- */
-.clients-list {
+/* .clients-list {
 	display: flex; /* Flexbox is enabled here */
-    justify-content: flex-start; /* Align items to the left */
-    gap: 10px; 
+    /* justify-content: flex-start; Align items to the left */
+    /* gap: 10px;  */
 	
-}
+/* } */ 
 
 .clients-list img {
 	width: 200px; /* Set a fixed width for each image */
